@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_description">SMS Forward is a secure utility that helps forward your SMS messages to other phone numbers. It only forwards messages you specify and does not collect any data.</string>
+</resources>
